@@ -1,5 +1,10 @@
 # itl-server - A simple translation server for `itl`
 
+`itl-server` is a DIY translation service, powered by Google Translator through Spreadsheet.
+It is designed to only work with [itl client library](https://github.com/hieunc229/itl). It's free and simple to setup. For more details, read [Translate the entire app to 103 languages: A DIY tutorial](http://about.saltar.co/blog/translate-entire-app-with-spreadsheet-diy-tutorial)
+
+An example is available through [`example` branch](https://github.com/hieunc229/itl-server/tree/example)
+
 ## 1. Installation
 
 `itl-server` is available as an npm package. You can install using `npm` or `yarn`
